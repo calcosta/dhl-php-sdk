@@ -23,12 +23,12 @@ class Credentials {
 	/**
 	 * DHL Business-API Test-User (Normal)
 	 */
-	const DHL_BUSINESS_TEST_USER = 'sandy_sandbox';
+	const DHL_BUSINESS_TEST_USER = 'user-valid';
 
 	/**
 	 * DHL Business-API Test-User-Password
 	 */
-	const DHL_BUSINESS_TEST_USER_PASSWORD = 'pass';
+	const DHL_BUSINESS_TEST_USER_PASSWORD = 'SandboxPasswort2023!';
 
 	/**
 	 * DHL Business-API Test-EKP
